@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a ~~react-graph-vis website~~ somebody beat me to that, i might make a roblox game
+- 🔭 I’m currently working on discord bots
 - 💬 I’m currently learning Computer Engineering at Stevens Institute of Technology
 - 😄 Pronouns: he/him
 
